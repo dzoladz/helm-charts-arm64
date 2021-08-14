@@ -2,9 +2,9 @@ name: release
 on:
   push:
     branches:
-      - master
+      - main
     paths:
-      - 'stable/**'
+      - 'charts/**'
   release:
     types: [published, created]
 
