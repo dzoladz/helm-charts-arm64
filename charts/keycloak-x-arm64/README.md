@@ -1,0 +1,1 @@
+`docker build -t dzoladz:keycloak-x-arm64 .`
