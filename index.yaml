@@ -3,6 +3,16 @@ entries:
   keycloak-x-arm64:
   - apiVersion: v2
     appVersion: 15.0.1
+    created: "2021-08-21T21:45:37.450017609Z"
+    description: A Helm chart for Kubernetes
+    digest: e6306bc6d3b2e54f00be650a830d9c8ab992b5bd3db1c257c077c7e5f84422e0
+    name: keycloak-x-arm64
+    type: application
+    urls:
+    - https://github.com/dzoladz/helm-charts-arm64/releases/download/keycloak-x-arm64-0.1.3/keycloak-x-arm64-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 15.0.1
     created: "2021-08-21T02:06:23.978657898Z"
     description: A Helm chart for Kubernetes
     digest: 23acfd4682ae5832a30a9f9a9ba9ddcfe7f6198430afd8f18b2d50ee47874545
